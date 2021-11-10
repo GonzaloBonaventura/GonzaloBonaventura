@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gonzalo Román Bonaventura
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: gonzalobonaventura@gmail.com
